@@ -245,6 +245,8 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
+	padding-left: 2em;
+		padding-right: 2em;
   border-bottom: 3px solid $greenish;
 // display: flex;
 float: left;
@@ -256,14 +258,14 @@ height: 50%;
 .posts > .post:last-child {
   padding-bottom: 2em;
 //   border-bottom: none;
-	  border-bottom: 3px solid $lightGray;
+	  border-bottom: 3px solid $greenish;
 
 }
 
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid $greenish;
     padding: 0.1em 1em;
     color: $gray;
     font-size: 22px;
