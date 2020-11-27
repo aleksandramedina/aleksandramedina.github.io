@@ -15,6 +15,6 @@ White Label is a brand strategy company, working hand-in-hand with McCann Riga.
 - wireframe planning
 
 
-**Notable clients: **
+**Notable clients:**
 - The City of Valmiera
 - LIAA (Investment and Development Agency of Latvia)
