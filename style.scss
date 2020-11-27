@@ -152,6 +152,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+	color: $pink
 }
 
 .masthead {
@@ -243,15 +244,16 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 3px solid $lightGray;
 // display: flex;
 	
 	
 }
 
 .posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
+  padding-bottom: 2em;
+//   border-bottom: none;
+	  border-bottom: 3px solid $lightGray;
 }
 
 .post {
@@ -273,18 +275,11 @@ nav {
     font-size: 15px;
   }
 }
-	
-// .posts {
-// 	display: flex;	
-// }
-
-// .post {
-// flex: 1 1 33%;
-// }
 
 .post{
 float: left;
-width: 33.333%
+width: 33.333%;
+height: 50%;
 }
 
 .wrapper-footer {
