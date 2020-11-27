@@ -13,7 +13,7 @@ Bachelor of Arts in Interactive Media
 
 2016 - 2021
 
-
+<br>
 
 **New York University Shanghai**, Shanghai, China
 
