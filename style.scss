@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
-text-align: center;
+// text-align: center;
 
   @include mobile {
     line-height: 1.4;
@@ -255,6 +255,9 @@ nav {
   padding-bottom: 2em;
 //   border-bottom: none;
 	  border-bottom: 3px solid $lightGray;
+	float: left;
+width: 33.333%;
+height: 50%;
 }
 
 .post {
@@ -278,9 +281,7 @@ nav {
 }
 
 .posts{
-float: left;
-width: 33.333%;
-height: 50%;
+
 }
 
 .wrapper-footer {
