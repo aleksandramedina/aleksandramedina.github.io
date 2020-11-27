@@ -18,7 +18,8 @@ avatar: https://avatars3.githubusercontent.com/u/45589697?s=460&u=39f3a23bf466f1
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: aleksandra.medd@gmail.com
+#   email: aleksandra.medd@gmail.com
+[email](mailto:aleksandra.medd@gmail.com)
   facebook:
   flickr:
   github: aleksandramedina
