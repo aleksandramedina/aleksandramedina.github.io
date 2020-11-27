@@ -247,7 +247,9 @@ nav {
   padding-bottom: 2em;
   border-bottom: 3px solid $lightGray;
 // display: flex;
-	
+float: left;
+width: 33.333%;
+height: 50%;
 	
 }
 
@@ -255,9 +257,7 @@ nav {
   padding-bottom: 2em;
 //   border-bottom: none;
 	  border-bottom: 3px solid $lightGray;
-	float: left;
-width: 33.333%;
-height: 50%;
+
 }
 
 .post {
