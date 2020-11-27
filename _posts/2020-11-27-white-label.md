@@ -1,6 +1,6 @@
 ---
 layout: post
-title: White Label
+title: White Label - McCann
 category: work
 ---
 
