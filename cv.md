@@ -21,7 +21,7 @@ Bachelor of Arts in Interactive Media
 
 September 2019 - December 2019
 
-
+<br>
 
 **New York University**, New York, USA
 
@@ -29,7 +29,7 @@ Bachelor of Arts in Interactive Media at ITP
 
 January 2020 - May 2020
 
-
+<br>
 
 ### Experience
 
@@ -42,3 +42,6 @@ January 2020 - May 2020
 2018 ||  White Label, Brand Strategist
 
 2018 ||  New York University Abu Dhabi, Graphic Design Assistant
+
+
+[email](emailto:aleksandra.medd@gmail.com)
