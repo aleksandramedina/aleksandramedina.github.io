@@ -270,6 +270,14 @@ nav {
     font-size: 15px;
   }
 }
+	
+.posts {
+	display: flexbox;	
+}
+
+.post {
+flex: 1 1 20%;
+}
 
 .wrapper-footer {
   margin-top: 50px;
