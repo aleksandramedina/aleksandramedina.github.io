@@ -244,7 +244,8 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
-	flex: 1 1 20%;
+// display: flex;
+	
 	
 }
 
@@ -273,12 +274,17 @@ nav {
   }
 }
 	
-.posts {
-	display: flex;	
-}
+// .posts {
+// 	display: flex;	
+// }
 
-.post {
-flex: 1 1 33%;
+// .post {
+// flex: 1 1 33%;
+// }
+
+.post{
+float: left;
+width: 33.333%
 }
 
 .wrapper-footer {
