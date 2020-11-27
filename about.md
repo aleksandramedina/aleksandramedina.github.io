@@ -11,4 +11,4 @@ Some information about you!
 A place to include any other types of information that you'd like to include about yourself.
 
 
-Feel free to [email me](mailto:email@domain.com) or read my [CV]() for more info.
+Feel free to [email me](mailto:email@domain.com) or read my [CV](/cv.md) for more info.
