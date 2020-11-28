@@ -70,7 +70,8 @@ p {
 }
 
 a {
-  color: $pink;
+//   color: $pink;
+	color: $mainWhite;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
