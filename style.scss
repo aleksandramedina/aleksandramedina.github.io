@@ -70,11 +70,11 @@ p {
 }
 
 a {
-  color: $pink;
+  color: $mainWhite;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-   	color: $mainWhite;
+   	color: $pink;
   }
 }
 
@@ -194,7 +194,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $pink;
+  color: $mainWhite;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
