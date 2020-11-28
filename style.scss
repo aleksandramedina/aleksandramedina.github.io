@@ -70,12 +70,12 @@ p {
 }
 
 a {
-  color: $mainWhite;
+  color: $pink;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-   	color: $pink;
-  }
+   	color: $mainWhite;
+  } 
 }
 
 ul, ol {
