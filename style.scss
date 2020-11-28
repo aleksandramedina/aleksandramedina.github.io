@@ -70,11 +70,11 @@ p {
 }
 
 a {
-  color: $pink;
+  color: $mainWhite;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-   	color: $darkPink;
+   	color: $pink;
   }
 }
 
@@ -204,7 +204,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $mainGray;
+  color: $mainWhite;
   font-size: 16px;
 
   @include mobile {
@@ -227,7 +227,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $mainWhite;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
