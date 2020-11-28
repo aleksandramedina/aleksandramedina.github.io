@@ -24,8 +24,6 @@ White Label is a brand strategy company, working hand-in-hand with McCann Riga. 
 
 ![spice app](/images/spice1.png)
 
-![spice app](/images/spice2.png)
-
-![spice app](/images/spice3.png)
+![spice app](/images/spice2.png) ![spice app](/images/spice3.png)
 
 [Company website](https://w-label.com)
