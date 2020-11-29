@@ -19,7 +19,7 @@ html {
 
 body {
   background: $mainWhite;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $arca;
   color: $mainGray;
 }
 
@@ -34,6 +34,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $arca;
   color: $mainGray;
   font-weight: bold;
+  letter-spacing: 2px;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -49,20 +50,24 @@ h1 {
   font-size: 30px;
   a {
     color: $mainGray;
+    letter-spacing: 2px;
   }
 }
 
 h2 {
   font-size: 24px;
+  letter-spacing: 2px;
 }
 
 h3 {
   font-size: 20px;
+  letter-spacing: 2px;
 }
 
 h4 {
   font-size: 18px;
   color: $mainGray;
+  letter-spacing: 2px;
 }
 
 p {
@@ -71,11 +76,11 @@ p {
 
 a {
 //   color: $pink; 
-	color: $mainGray;
+  color: $mainGray;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
-   	color: $mainPink;
+  color: $mainPink;
   } 
 }
 
@@ -197,7 +202,7 @@ img {
   margin: 0;
   color: $mainGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $arca;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -216,7 +221,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $arca;
   font-size: 18px;
 
   @include mobile {
