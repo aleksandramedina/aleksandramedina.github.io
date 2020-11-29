@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+I believe my strength lies in my ability to see the best in things. Then I combine these seemingly separate details into a unique solution.
+
+
 I’m a student at NYU’s Interactive Media Program where I work both on my design and technical coding skills.
 
 
