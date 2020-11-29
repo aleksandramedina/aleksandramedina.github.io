@@ -19,7 +19,7 @@ html {
 
 body {
   background: $mainWhite;
-  font: 18px/1.4 $arca;
+  font: 18px/1.4 $helveticaNeue;
   color: $mainGray;
 }
 
@@ -240,7 +240,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $mainGray;
     }
   }
 }
