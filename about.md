@@ -19,4 +19,4 @@ After moving to New York, I started working at an agency, where some of my clien
 And now, while wrapping up my studies, my co-founder and I are working on Frich - the first social finance app, with our mentor Ken Kruszka, who is the founder of Snapcheck. 
 
 
-Feel free to [email me](mailto:aleksandra.medd@gmail.com) or read my [CV](/cv.md) for more info.
+Feel free to [email me](mailto:aleksandra.medd@gmail.com) or read my [CV](/aleksandra-medina-2020.pdf) for more info.
