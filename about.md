@@ -20,3 +20,10 @@ And now, while wrapping up my studies, my co-founder and I are working on Frich 
 
 
 Feel free to [email me](mailto:aleksandra.medd@gmail.com) or read my [CV](/images/aleksandra-medina-2020.pdf) for more info.
+
+<footer class="footer">
+  <a target="_blank" href="mailto:jackbdu@nyu.edu">e-mail   </a>
+  <a target="_blank" href="https://github.com/aleksandramedina">   GitHub   </a>
+  <a target="_blank" href="https://www.linkedin.com/in/aleksandra-medina-2a4b37168/">   LinkedIn</a>
+
+</div>
