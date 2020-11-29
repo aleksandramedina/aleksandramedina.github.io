@@ -26,4 +26,3 @@ Feel free to [email me](mailto:aleksandra.medd@gmail.com) or read my [CV](/image
   <a target="_blank" href="https://github.com/aleksandramedina">   GitHub   </a>
   <a target="_blank" href="https://www.linkedin.com/in/aleksandra-medina-2a4b37168/">   LinkedIn</a>
 
-</div>
