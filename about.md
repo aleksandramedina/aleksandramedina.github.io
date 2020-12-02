@@ -10,7 +10,7 @@ I believe my strength lies in my ability to see the best in things. Then I combi
 I’m a student at NYU’s Interactive Media Program where I work both on my design and technical coding skills.
 
 
-Leading up to today, I have worked and studied in multiple countries in Europe, China, UAE, and now eventually in New York.
+Leading up to today, I have worked and studied in multiple countries in Europe, Asia, Middle East, and now eventually in New York.
 
 
 During my gap year I worked at McCANN Erickson creating brand strategies for a wide variety of clients including cities, department stores and government entities.
