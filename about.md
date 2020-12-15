@@ -19,7 +19,7 @@ During my gap year I worked at McCANN Erickson creating brand strategies for a w
 After moving to New York, I started working at an agency, where some of my clients included Audi, Warner Music and the Amy Winehouse Foundation.
 
 
-[Email me](mailto:aleksandra.medd@gmail.com) to ask me anything or see more in my [CV](/images/aleksandra-medina-2020.pdf).
+[Email me](mailto:aleksandra.medd@gmail.com) to ask me anything or see more in my [CV](/images/a-m-2020-2.pdf).
 
 <footer class="footer">
   <a target="_blank" href="mailto:jackbdu@nyu.edu">e-mail   </a>
