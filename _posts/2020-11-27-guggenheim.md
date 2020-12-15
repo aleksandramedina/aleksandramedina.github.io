@@ -9,4 +9,4 @@ category: work
 Collaborated with the Guggenheim Abu Dhabi team to present an exhibition to be exhibited at the first event in Guggenheim Abu Dhabi.
 
 
-[Institution website](https://www.guggenheim.org/about-us)
+[Link to institution website.](https://www.guggenheim.org/about-us)
